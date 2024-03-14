@@ -1,0 +1,38 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar{
+  display: none;
+}
+.app{
+  background-color: #111;
+}
+
+.cardContainer{
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  gap: 1rem;
+  padding:20px 5px;
+}
+
+.cardContainer img{
+  border-radius: 15px;
+  height: 300px;
+  object-fit: cover;
+}
+.cardContainer img:hover{
+  transform: scale(1.08);
+}
+
+.cardContainer::-webkit-scrollbar{
+  display: none;
+}
+
+@media screen and (max-width:480px){
+  .cardContainer img{
+    height:200px
+  }
+}
