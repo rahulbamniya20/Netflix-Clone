@@ -27,7 +27,7 @@ Check out the live demo [here](https://netflix-clone-by-rahul.vercel.app/).
 
 ## Deployment 🚀
 
-The front end of this website is graciously hosted on Netlify, enabling a smooth and accessible user experience worldwide.
+The front end of this website is graciously hosted on Vercel, enabling a smooth and accessible user experience worldwide.
 
 
 ## Getting Started 🛠
