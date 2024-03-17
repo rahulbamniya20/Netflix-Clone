@@ -1,6 +1,6 @@
 # Netflix Clone Project 🎬
 
-<img width="688" alt="Screenshot 2024-03-16 at 10 38 55 AM" src="https://github.com/rahulbamniya20/Netflix-Clone/assets/110114539/bcfe8df5-e66f-4e89-832b-4fcb0c042e92">
+<img width="688" alt="Screenshot 2024-03-16 at 10 38 55 AM" src="https://github.com/rahulbamniya20/Netflix-Clone/assets/110114539/bcfe8df5-e66f-4e89-832b-4fcb0c042e92" width="400" height="250">
 
 
 Dive into the captivating experience of Netflix, right from the comfort of your own development journey. This Netflix Clone brings the sleek, user-friendly interface and immersive experience of Netflix into a responsive web application, showcasing popular movies and series, complete with tantalizing trailers and detailed insights.
@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rahulbamniya20/Netflix-Clone.git
 
 ### Prerequisites
 
